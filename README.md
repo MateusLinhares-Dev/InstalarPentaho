@@ -1,1 +1,1 @@
-# InstalarPentaho
+# Instalação do PENTAHO
